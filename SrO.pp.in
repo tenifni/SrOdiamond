@@ -1,0 +1,12 @@
+&inputpp
+    prefix = 'sro'
+    outdir = './out/'
+    plot_num= 21
+/
+&plot
+    iflag = 3
+    output_format = 6
+    fileout = 'SrO.cube'
+    nx=100,ny=100,nz=100,
+/
+

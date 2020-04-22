@@ -1,0 +1,4 @@
+&input
+	fildyn='sro.dynG',
+	asr='zero-dim',
+/

@@ -1,0 +1,11 @@
+phonons of SrO in super cell at Gamma
+ &inputph
+  outdir='./out/',
+  prefix='sro',
+  amass(1)=15.9994,
+  amass(2)=87.62,
+  fildyn='sro.dynG',
+  tr2_ph=1.0d-14,
+  trans= .true.
+ /
+0.0 0.0 0.0
